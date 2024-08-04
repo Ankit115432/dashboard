@@ -1,0 +1,23 @@
+.gridList{
+    background: #333;
+    border: 1px solid #333;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    padding: 20px;
+    height: 200px;
+}
+
+.gridItem{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+p.icon{
+    background: gainsboro;
+    border-radius: 100%;
+    padding: 10px;
+    margin-right: 10px;
+}

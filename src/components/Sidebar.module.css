@@ -1,0 +1,13 @@
+.sidebar {
+    background-color: #444;
+    color: #fff;
+    height: 100%;
+    padding: 20px 0;
+    width: 10%; 
+    float: left;
+  }
+  
+  .menuItem {
+    margin-bottom: 15px;
+    cursor: pointer;
+  }

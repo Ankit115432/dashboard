@@ -1,0 +1,25 @@
+.recentOrders {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .recentOrders h3 {
+    margin-bottom: 10px;
+  }
+  
+  .recentOrders table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .recentOrders th,
+  .recentOrders td {
+    padding: 10px;
+    border: 1px solid #444;
+  }
+  
+  .recentOrders th {
+    background-color: #444;
+  }

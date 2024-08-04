@@ -1,0 +1,15 @@
+.customerFeedback {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    /* margin-top: 52px; */
+  }
+  
+  .customerFeedback h3 {
+    margin-bottom: 10px;
+  }
+  
+  .feedback {
+    margin-bottom: 20px;
+  }
